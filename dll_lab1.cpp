@@ -1,7 +1,10 @@
 #pragma hdrstop
 #pragma argsused
 #include <dll_lab1.h>
-#include<string.h>
+#include <string.h>
+
+// Hello, I'm Ivan Pritchin
+
 extern "C" int _libmain(unsigned long reason)
 {
     return 1;
