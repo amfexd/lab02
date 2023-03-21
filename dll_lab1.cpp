@@ -4,6 +4,7 @@
 #include <string.h>
 
 // Hello, I'm Ivan Pritchin
+// Line number two
 
 extern "C" int _libmain(unsigned long reason)
 {
