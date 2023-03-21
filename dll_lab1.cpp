@@ -21,5 +21,5 @@ extern "C" int __stdcall get_FIO(char* buf)
 }
 extern "C" int __stdcall get_group_id()
 {
-
+    return 581220;
 }
